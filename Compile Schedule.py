@@ -1,3 +1,11 @@
+'''
+This script 
+	- Downloads the CSV file from the 2021 DFL master schedule
+	- Populates "players.json" JSON object with compiled player data
+	- Populates "schedule.json" JSON object with compiled schedule data
+	- Exports both JSON objects
+'''
+
 import pandas as pd
 import numpy as np
 import json
@@ -13,6 +21,9 @@ json_out = []
 Team=["FC Coast", "Ship Maturity FC", "FC Ducklips", "Minotaurs FC", "Mofongo FC", "Golden Siors FC", "Rio FC", "Miners FC", "Lightning FC", "Atletico Yoink"]
 
 def processPlayers(goals, assists, team):
+	'''
+	- processPlayers adds the goals and assists to the respective player objects
+	'''
 	goalsArr = goals.split(",")
 	assistArr = assists.split(",")
 	for i in goalsArr:
