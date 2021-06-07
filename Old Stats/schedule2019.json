@@ -1,0 +1,322 @@
+[
+    {
+        "date": "2019-05-31",
+        "home": "PFC",
+        "Hscore": 3,
+        "away": "GSFC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-01",
+        "home": "LFC",
+        "Hscore": 7,
+        "away": "SMFC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-02",
+        "home": "MFC",
+        "Hscore": 1,
+        "away": "FCD",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-02",
+        "home": "FCC",
+        "Hscore": 2,
+        "away": "RFC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-08",
+        "home": "GSFC",
+        "Hscore": 2,
+        "away": "LFC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-09",
+        "home": "PFC",
+        "Hscore": 3,
+        "away": "FCC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-12",
+        "home": "SMFC",
+        "Hscore": 3,
+        "away": "FCD",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-15",
+        "home": "MFC",
+        "Hscore": 4,
+        "away": "LFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-19",
+        "home": "PFC",
+        "Hscore": 3,
+        "away": "SMFC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-20",
+        "home": "RFC",
+        "Hscore": 1,
+        "away": "MFC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-22",
+        "home": "FCD",
+        "Hscore": 2,
+        "away": "FCC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-24",
+        "home": "GSFC",
+        "Hscore": 1,
+        "away": "RFC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-22",
+        "home": "LFC",
+        "Hscore": 0,
+        "away": "PFC",
+        "Ascore": 7,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-26",
+        "home": "MFC",
+        "Hscore": 3,
+        "away": "GSFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-28",
+        "home": "FCC",
+        "Hscore": 2,
+        "away": "PFC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-06-28",
+        "home": "RFC",
+        "Hscore": 6,
+        "away": "SMFC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-05",
+        "home": "FCC",
+        "Hscore": 6,
+        "away": "MFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-07",
+        "home": "GSFC",
+        "Hscore": 1,
+        "away": "SMFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-13",
+        "home": "RFC",
+        "Hscore": 1,
+        "away": "PFC",
+        "Ascore": 6,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-13",
+        "home": "LFC",
+        "Hscore": 2,
+        "away": "FCC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-18",
+        "home": "FCD",
+        "Hscore": 0,
+        "away": "RFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-18",
+        "home": "FCD",
+        "Hscore": 0,
+        "away": "MFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-20",
+        "home": "SMFC",
+        "Hscore": 1,
+        "away": "MFC",
+        "Ascore": 6,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-21",
+        "home": "RFC",
+        "Hscore": 1,
+        "away": "LFC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-21",
+        "home": "GSFC",
+        "Hscore": 0,
+        "away": "FCC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-22",
+        "home": "PFC",
+        "Hscore": 3,
+        "away": "FCD",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-26",
+        "home": "SMFC",
+        "Hscore": 1,
+        "away": "RFC",
+        "Ascore": 7,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-27",
+        "home": "FCC",
+        "Hscore": 3,
+        "away": "FCD",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-27",
+        "home": "LFC",
+        "Hscore": 3,
+        "away": "GSFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-28",
+        "home": "GSFC",
+        "Hscore": 3,
+        "away": "FCD",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-07-28",
+        "home": "PFC",
+        "Hscore": 3,
+        "away": "MFC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-02",
+        "home": "LFC",
+        "Hscore": 2,
+        "away": "RFC",
+        "Ascore": 7,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-03",
+        "home": "SMFC",
+        "Hscore": 3,
+        "away": "LFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-03",
+        "home": "MFC",
+        "Hscore": 2,
+        "away": "FCC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-04",
+        "home": "SMFC",
+        "Hscore": 6,
+        "away": "GSFC",
+        "Ascore": 9,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-04",
+        "home": "MFC",
+        "Hscore": 2,
+        "away": "PFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-05",
+        "home": "FCD",
+        "Hscore": 0,
+        "away": "PFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-05",
+        "home": "FCD",
+        "Hscore": 0,
+        "away": "LFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-06",
+        "home": "RFC",
+        "Hscore": 0,
+        "away": "GSFC",
+        "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2019-08-06",
+        "home": "FCC",
+        "Hscore": 0,
+        "away": "SMFC",
+        "Ascore": 3,
+        "field": "Soule"
+    }
+]
