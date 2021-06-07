@@ -2,5 +2,6 @@
 python3 csv\ to\ json.py
 python3 Compile\ Schedule.py
 git add .
-git commit -m "Auto-commit:" -m "`$commitDate`"
+COMMIT_DATE=$(date)
+git commit -m "Auto-commit: $COMMIT_DATE"
 git push
