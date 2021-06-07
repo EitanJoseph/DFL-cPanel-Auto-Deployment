@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/xmxzechy83hj/public_html/
+    - /bin/cp players.json $DEPLOYPATH
+    - /bin/cp schedule.json $DEPLOYPATH
