@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DFL 
+# To edit the script that deploys changes on the DFL website look in the repository on the server side
+deploy.sh
