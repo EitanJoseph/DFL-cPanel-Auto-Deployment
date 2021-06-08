@@ -23,7 +23,7 @@ This repository allows the DFL captains to input match report data without havin
   3. Find the absolute path to `deploy.sh`, such as `/Users/user/folder/DFL-cPanel-Auto-Deployment/deploy.sh`, and paste it into the opened crontab file according to how often the process should run, for example:
 
 ```
-    1 22 * * * /Users/user/folder/DFL-cPanel-Auto-Deployment/update.sh
+    1 22 * * * /Users/user/folder/DFL-cPanel-Auto-Deployment/deploy.sh
 ```
   4. Periodically check `/var/mail/` to ensure that the script is running properly.
 
