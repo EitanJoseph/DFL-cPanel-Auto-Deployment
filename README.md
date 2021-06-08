@@ -7,7 +7,7 @@ The auto-deployment structure is defined by the bash script [update.sh](./update
 2. Pretty-print JSON objects using `python -m json.tool`
 3. Deploy to cPanel by pushing changes made in (1) by this execution of [update.sh](./update.sh)
 
-When changes are made in this repository, cPanel remotely runs the [.yml file](./.cpanel.yml), using the "push deployment" model, which copies the associated JSON objects to the public domain's home folder.
+On the server-side, a chrontab process updates the website according to this repository every 24 hours, by running its own version of `deploy.sh`. The contents of [players.json](./players.json) and [schedule.json](./schedule.json) are directly pushed to the server every 24 hours. As such, care must be taken when editing this repository, as well as when updating the google hosted captain's spreadsheet.
 
 ## Using This Repository
 This repository allows the DFL captains to input match report data without having to report to the website host. In order to utilize this auto-deployment structure, it is possible to do either of:
