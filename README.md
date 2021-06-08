@@ -13,7 +13,7 @@ When changes are made in this repository, cPanel remotely runs the [.yml file](.
 This repository allows the DFL captains to input match report data without having to report to the website host. In order to utilize this auto-deployment structure, it is possible to do either of:
 * Manually run `./update.sh` at fixed intervals
 * Use crontab to periodically run `./update.sh` by taking the following steps
-  1. Create a new script, `deploy.sh` with the following:
+1. Create a new script, `deploy.sh` with the following:
 ```
     #!/bin/bash
     /Users/user/folder/DFL-cPanel-Auto-Deployment/update.sh
