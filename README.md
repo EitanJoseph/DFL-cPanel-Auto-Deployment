@@ -5,7 +5,7 @@ This repository houses the the cPanel auto-deployment framework for the [DFL Web
 The auto-deployment structure is defined by the bash script [update.sh](./update.sh), which does the following tasks:
 1. Run the python scripts to download and populate JSON objects from the DFL master spreadsheet managed by all captains. Objects are found in [players.json](./players.json) and [schedule.json](./schedule.json).
 2. Pretty-print JSON objects using `python -m json.tool`
-3. Deploy to cPanel by pushing changes made in (1) by this [update.sh](./update.sh)
+3. Deploy to cPanel by pushing changes made in (1) by this execution of [update.sh](./update.sh)
 
 When changes are made in this repository, cPanel remotely runs the [.yml file](./.cpanel.yml), using the "push deployment" model, which copies the associated JSON objects to the public domain's home folder.
 
@@ -14,7 +14,7 @@ This repository allows the DFL captains to input match report data without havin
 * Manually run `./update.sh` at fixed intervals
 * Use crontab to periodically run `./update.sh` by taking the following steps
   1. `crontab -e`
-  2. Find the absolute path to update.sh, add a leading period, such as `./Users/user/folder/DFL-cPanel-Auto-Deployment/update.sh`, and paste it into the opened crontab file
+  2. Find the absolute path to update.sh, such as `/Users/user/folder/DFL-cPanel-Auto-Deployment/update.sh`, and paste it into the opened crontab file
 
 ## References
 * https://man7.org/linux/man-pages/man5/crontab.5.html

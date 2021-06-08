@@ -1062,7 +1062,7 @@
                 "name": "Raphael Edwards",
                 "number": 1,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Boston"
@@ -1071,7 +1071,7 @@
                 "name": "William Brown",
                 "number": 2,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -1080,8 +1080,8 @@
                 "name": "Will Philbin-Cross",
                 "number": 3,
                 "ga": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "town": "Roslindale"
             },
@@ -1089,8 +1089,8 @@
                 "name": "Cole Flewelling",
                 "number": 4,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Milton"
             },
@@ -1216,7 +1216,7 @@
                 "number": 18,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Amsterdam"
             },
@@ -1225,7 +1225,7 @@
                 "number": 19,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Chicago"
             },
@@ -1243,7 +1243,7 @@
                 "number": 21,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Dorchester"
             },
@@ -1252,7 +1252,7 @@
                 "number": 22,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Jamaica Plain"
             }
