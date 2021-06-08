@@ -131,3 +131,4 @@ dmypy.json
 # DFL 
 # To edit the script that deploys changes on the DFL website look in the repository on the server side
 deploy.sh
+.DS_Store
