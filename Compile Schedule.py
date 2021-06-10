@@ -24,8 +24,8 @@ def processPlayers(goals, assists, team):
 	'''
 	- processPlayers adds the goals and assists to the respective player objects
 	'''
-	goalsArr = goals.split(",")
-	assistArr = assists.split(",")
+	goalsArr = goals.split(",") if type(goals) is str else []
+	assistArr = assists.split(",") if type(assists) is str else []
 	for i in goalsArr:
 		players[team]["players"][int(i)-1]["ga"][0] += 1
 	for i in assistArr:
