@@ -4,8 +4,8 @@ python3 Download\ JSON.py
 python3 Compile\ Schedule.py
 
 # Pretty-print JSON objects
-python -m json.tool players.json > players_temp.json
-python -m json.tool schedule.json > schedule_temp.json
+python3 -m json.tool players.json > players_temp.json
+python3 -m json.tool schedule.json > schedule_temp.json
 cat players_temp.json > players.json
 cat schedule_temp.json > schedule.json
 rm players_temp.json
