@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2021-06-02",
+        "home": "Minotaurs FC",
+        "Hscore": 3,
+        "away": "FC Ducklips",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-06-04",
+        "home": "FC Coast",
+        "Hscore": 2,
+        "away": "Ship Maturity FC",
+        "Ascore": 2,
+        "field": "Newton South"
+    },
+    {
+        "date": "2021-06-04",
+        "home": "Rio FC",
+        "Hscore": 4,
+        "away": "Golden Siors FC",
+        "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-06-09",
+        "home": "Minotaurs FC",
+        "Hscore": 1,
+        "away": "Atletico Yoink",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-06-10",
+        "home": "Golden Siors FC",
+        "Hscore": 3,
+        "away": "Mofongo FC",
+        "Ascore": 7,
+        "field": "Soule"
+    }
+]
