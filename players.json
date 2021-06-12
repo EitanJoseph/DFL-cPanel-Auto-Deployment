@@ -1,0 +1,1861 @@
+{
+    "FC Coast": {
+        "name": "FC Coast",
+        "players": [
+            {
+                "name": "Sean Greene",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Isaac Rimm",
+                "number": 2,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Ethan Hollop",
+                "number": 3,
+                "ga": [
+                    2,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Lorenzo Mancini",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Hopedale"
+            },
+            {
+                "name": "Alex Crystal",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Joe Arnold",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Natick"
+            },
+            {
+                "name": "Yonatan Paserman",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Levi Shlyankevich",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jonathan Ayash",
+                "number": 9,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "John Javaloyes",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Eitan Joseph",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Daniel Ayash",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Will Fox",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "West Roxbury"
+            },
+            {
+                "name": "Aram Harumi",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Daniel Yang",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Sherborn"
+            },
+            {
+                "name": "Noam Borensztajn",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "West Roxbury"
+            },
+            {
+                "name": "Joey Layden",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Medfield"
+            },
+            {
+                "name": "Jack Lane",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Medfield"
+            },
+            {
+                "name": "Evan Blanchard",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Sherborn"
+            },
+            {
+                "name": "Gino Kennedy",
+                "number": 20,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Duxbury"
+            }
+        ]
+    },
+    "Ship Maturity FC": {
+        "name": "Ship Maturity FC",
+        "players": [
+            {
+                "name": "Dario Arcieri",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Gabe Appelbaum",
+                "number": 2,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Alastair Poole",
+                "number": 3,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Will Kritzer",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Zion Williamson",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Ethan Ratnofsky",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Rafael Perron",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Evan Dyer",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Alex Ivanov",
+                "number": 9,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Luka Don\u010di\u0107",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Giacomo Coraluppi",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Martin Pleynet",
+                "number": 12,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jonathan Cohen",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Declan McGarry Partridge",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Saul Johnson-Green",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Sean Walsh",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Colin Hoyt",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Michael Carpenito",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Vandrey Sisson",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jack Armstrong",
+                "number": 20,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jose Agudelo",
+                "number": 21,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Sam Norwitz",
+                "number": 22,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Newton"
+            }
+        ]
+    },
+    "FC Ducklips": {
+        "name": "FC Ducklips",
+        "players": [
+            {
+                "name": "Zach Meisner",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Finbar McCarron",
+                "number": 2,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Alex Klayman",
+                "number": 3,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Peter Spielmann",
+                "number": 4,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Theo Angert",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Marcus Trabucco",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Tim Reidy",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ethan Bagshaw",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Matt Gnieski",
+                "number": 9,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Daniel Cote",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Jack Mazzarese",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham "
+            },
+            {
+                "name": "Kenny Keyes",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ryan Kirshner",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ethan Mccarron ",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham "
+            },
+            {
+                "name": "Dilin Meloni ",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Chris Kajunski",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham "
+            },
+            {
+                "name": "Ben Yee ",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Aidan Mcgovern",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham "
+            }
+        ]
+    },
+    "Minotaurs FC": {
+        "name": "Minotaurs FC",
+        "players": [
+            {
+                "name": "Samson Cantor",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Noah Oppenheim",
+                "number": 2,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Dennis Pecherskiy",
+                "number": 3,
+                "ga": [
+                    3,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jacob Szwarcewicz",
+                "number": 4,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Tomas Nelson",
+                "number": 5,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Justin Cassler",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Michael Bagdasarian",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Nick Kadiyala",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Adam Bernhardt",
+                "number": 9,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Josh Bruehwiler",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Issac Enelemah",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Alex Atalla",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Alex Ortega",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Koroush Emani",
+                "number": 14,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Matteo Marino",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Josh Cafaro",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Nick Wilson-Thayer",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Jake Schwartz",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Joe Beckett",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            }
+        ]
+    },
+    "Mofongo FC": {
+        "name": "Mofongo FC",
+        "players": [
+            {
+                "name": "John Wendlandt",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Youmy Telemaque",
+                "number": 2,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Waltham"
+            },
+            {
+                "name": "Fred Madsen",
+                "number": 3,
+                "ga": [
+                    2,
+                    2
+                ],
+                "town": "Waltham"
+            },
+            {
+                "name": "Or Yahalom",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Ben  Geralt",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "West Roxbury"
+            },
+            {
+                "name": "Rahul Drukpa",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Concord "
+            },
+            {
+                "name": "Matthew Goncalves",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Everett"
+            },
+            {
+                "name": "Gabe Herman ",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Henry  Madsen ",
+                "number": 9,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Waltham"
+            },
+            {
+                "name": "Abdul Barrie ",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Milton"
+            },
+            {
+                "name": "Charlie Penzone ",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Lexington"
+            },
+            {
+                "name": "Mateen Nickpour ",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Max Johnston ",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Marocs Phillip",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Diego Gisholt ",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Will Bessa",
+                "number": 16,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Framingham"
+            },
+            {
+                "name": "Dan Faynstien ",
+                "number": 17,
+                "ga": [
+                    4,
+                    1
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Alec Vasquez",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Concord"
+            },
+            {
+                "name": "Yasha Klebanov",
+                "number": 19,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Brenden Chin",
+                "number": 20,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline "
+            }
+        ]
+    },
+    "Golden Siors FC": {
+        "name": "Golden Siors FC",
+        "players": [
+            {
+                "name": "Adonis Scaltsas",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Alex Van Alphan",
+                "number": 2,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Amherst"
+            },
+            {
+                "name": "Artiom Tarabarin",
+                "number": 3,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Florian Rieder",
+                "number": 4,
+                "ga": [
+                    4,
+                    1
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Jak Hallagan",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Matt Shaker",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Michael Aksman",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Michael McShane",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Miles Dycaico",
+                "number": 9,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Nate Cole",
+                "number": 10,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Peter Kargbo",
+                "number": 11,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Renato Huezo-Rosales",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Rick Tamkin",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ryan Fleming",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Kingston"
+            },
+            {
+                "name": "Sam Denbow",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "The Land"
+            },
+            {
+                "name": "Vali Tenbrook",
+                "number": 16,
+                "ga": [
+                    0,
+                    2
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Will Popper",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            }
+        ]
+    },
+    "Rio FC": {
+        "name": "Rio FC",
+        "players": [
+            {
+                "name": "Raphael Edwards",
+                "number": 1,
+                "ga": [
+                    2,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "William Brown",
+                "number": 2,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Will Philbin-Cross",
+                "number": 3,
+                "ga": [
+                    2,
+                    1
+                ],
+                "town": "Roslindale"
+            },
+            {
+                "name": "Cole Flewelling",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Milton"
+            },
+            {
+                "name": "Ford Chope",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Tobin Gedstad",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Noah Savitz",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Ben Lehv",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Sage Choi",
+                "number": 9,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "New York"
+            },
+            {
+                "name": "Kyle Banker",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Seamus Buckley",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Dorchester"
+            },
+            {
+                "name": "Jacob Calka",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Hopkinton"
+            },
+            {
+                "name": "Henry Harkins",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Newton"
+            },
+            {
+                "name": "Alex Demidov",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Roberto Cucci",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Waltham"
+            },
+            {
+                "name": "Dylan Curran",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Ronan McCarthy",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Roslindale"
+            },
+            {
+                "name": "Mason Oebeles",
+                "number": 18,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Amsterdam"
+            },
+            {
+                "name": "Tyler Doornweerd",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Chicago"
+            },
+            {
+                "name": "Michael Wickwire",
+                "number": 20,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Isaiah Harris",
+                "number": 21,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Dorchester"
+            },
+            {
+                "name": "Naim Laird",
+                "number": 22,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Jamaica Plain"
+            }
+        ]
+    },
+    "Miners FC": {
+        "name": "Miners FC",
+        "players": [
+            {
+                "name": "Sam Scher",
+                "number": 1,
+                "ga": [
+                    1,
+                    2
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Richie Flemming",
+                "number": 2,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Boston"
+            },
+            {
+                "name": "Jake Sacks",
+                "number": 3,
+                "ga": [
+                    2,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Mekhi Edge",
+                "number": 4,
+                "ga": [
+                    5,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Brad Saines",
+                "number": 5,
+                "ga": [
+                    1,
+                    2
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Kolya Partan",
+                "number": 6,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Avi BenMayor",
+                "number": 7,
+                "ga": [
+                    2,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Mateo Ascherio",
+                "number": 8,
+                "ga": [
+                    3,
+                    2
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Sammy Guttell",
+                "number": 9,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Evan Guttell",
+                "number": 10,
+                "ga": [
+                    0,
+                    2
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Omar Ghafour",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
+            },
+            {
+                "name": "Ellis O'Donnell",
+                "number": 12,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Oliver O'Donnell",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Nicholas Duarte",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brockton"
+            },
+            {
+                "name": "Noah Powell",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Dedham"
+            },
+            {
+                "name": "Jordan Idehen",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Lexington"
+            },
+            {
+                "name": "Max Sweetbaum",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "London"
+            },
+            {
+                "name": "Alesar Yerzhanov ",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Astana"
+            },
+            {
+                "name": "Artem Zalivchiy",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Moscow"
+            },
+            {
+                "name": "Jacob Colling",
+                "number": 20,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Kansas City"
+            }
+        ]
+    },
+    "Lightning FC": {
+        "name": "Lightning FC",
+        "players": [
+            {
+                "name": "Gehrig Dick",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Nate Ramras",
+                "number": 2,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Joe Spielmann",
+                "number": 3,
+                "ga": [
+                    0,
+                    2
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ryan meade",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Brian Poolman",
+                "number": 5,
+                "ga": [
+                    2,
+                    2
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Tino Tsitsas",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Majeed Bugazia",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ryan Partridge",
+                "number": 8,
+                "ga": [
+                    2,
+                    1
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Steven Donovan",
+                "number": 9,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Matt Dougherty",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Oren Shalita",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Ben Lobel",
+                "number": 12,
+                "ga": [
+                    3,
+                    1
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "David Walley",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Jonah Berg",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Chris Fleming",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Jack Morgan",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Tommy Moreth",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Gerard Costa",
+                "number": 18,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Josh Fleckner",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Needham"
+            },
+            {
+                "name": "Liam Woodman",
+                "number": 20,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Needham"
+            }
+        ]
+    },
+    "Atletico Yoink": {
+        "name": "Atletico Yoink",
+        "players": [
+            {
+                "name": "Isaac Gorelik",
+                "number": 1,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Henry Osborn",
+                "number": 2,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "David Dangond",
+                "number": 3,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Tom Cochran",
+                "number": 4,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Roslindale"
+            },
+            {
+                "name": "Jack Mullany",
+                "number": 5,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Tim Pesek",
+                "number": 6,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Alex Chiocca",
+                "number": 7,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Devan Venkataraman ",
+                "number": 8,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Medfield"
+            },
+            {
+                "name": "Michael Delduchetto",
+                "number": 9,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Cam Schluter",
+                "number": 10,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Yoseph Alkhateeb",
+                "number": 11,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Andres Castillo-Lares",
+                "number": 12,
+                "ga": [
+                    0,
+                    2
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Rob Garofalo",
+                "number": 13,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Noah Hooper",
+                "number": 14,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Nick Ranieri",
+                "number": 15,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Natick"
+            },
+            {
+                "name": "Damian Attidore",
+                "number": 16,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Sari Aboushala",
+                "number": 17,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Brian Hall",
+                "number": 18,
+                "ga": [
+                    2,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Joey Lembo",
+                "number": 19,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Eddie Pomianek",
+                "number": 20,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Nick Ginovker",
+                "number": 21,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "Christos Iatridis",
+                "number": 22,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            },
+            {
+                "name": "John Goulart",
+                "number": 23,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Weston"
+            }
+        ]
+    }
+}
