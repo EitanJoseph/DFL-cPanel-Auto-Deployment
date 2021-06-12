@@ -191,7 +191,7 @@
                 "name": "Dario Arcieri",
                 "number": 1,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Newton"
@@ -210,7 +210,7 @@
                 "number": 3,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -299,8 +299,8 @@
                 "name": "Jonathan Cohen",
                 "number": 13,
                 "ga": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "town": "Newton"
             },
@@ -354,7 +354,7 @@
                 "number": 19,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -746,8 +746,8 @@
                 "name": "Youmy Telemaque",
                 "number": 2,
                 "ga": [
-                    0,
-                    1
+                    1,
+                    2
                 ],
                 "town": "Waltham"
             },
@@ -755,7 +755,7 @@
                 "name": "Fred Madsen",
                 "number": 3,
                 "ga": [
-                    2,
+                    3,
                     2
                 ],
                 "town": "Waltham"
@@ -873,7 +873,7 @@
                 "number": 16,
                 "ga": [
                     1,
-                    1
+                    2
                 ],
                 "town": "Framingham"
             },
@@ -912,6 +912,15 @@
                     0
                 ],
                 "town": "Brookline "
+            },
+            {
+                "name": "Matthew Bell",
+                "number": 21,
+                "ga": [
+                    1,
+                    1
+                ],
+                "town": "Milton"
             }
         ]
     },
