@@ -24,7 +24,7 @@
                 "name": "Ethan Hollop",
                 "number": 3,
                 "ga": [
-                    2,
+                    3,
                     0
                 ],
                 "town": "Needham"
@@ -87,7 +87,7 @@
                 "name": "John Javaloyes",
                 "number": 10,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Newton"
@@ -96,7 +96,7 @@
                 "name": "Eitan Joseph",
                 "number": 11,
                 "ga": [
-                    0,
+                    1,
                     0
                 ],
                 "town": "Newton"
@@ -181,6 +181,15 @@
                     1
                 ],
                 "town": "Duxbury"
+            },
+            {
+                "name": "Omar Ghafour",
+                "number": 21,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Brookline"
             }
         ]
     },
@@ -1282,6 +1291,15 @@
                     0
                 ],
                 "town": "Jamaica Plain"
+            },
+            {
+                "name": "Lubens Benjamin",
+                "number": 23,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Cambridge "
             }
         ]
     },
@@ -1467,6 +1485,15 @@
                     0
                 ],
                 "town": "Kansas City"
+            },
+            {
+                "name": "Yonathan Paserman",
+                "number": 21,
+                "ga": [
+                    0,
+                    0
+                ],
+                "town": "Brookline"
             }
         ]
     },
@@ -1671,8 +1698,8 @@
                 "name": "Henry Osborn",
                 "number": 2,
                 "ga": [
-                    1,
-                    1
+                    2,
+                    2
                 ],
                 "town": "Weston"
             },
@@ -1726,7 +1753,7 @@
                 "number": 8,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Medfield"
             },
@@ -1735,7 +1762,7 @@
                 "number": 9,
                 "ga": [
                     1,
-                    1
+                    4
                 ],
                 "town": "Weston"
             },
@@ -1776,13 +1803,13 @@
                 "town": "Weston"
             },
             {
-                "name": "Noah Hooper",
+                "name": "Paris Pentousis",
                 "number": 14,
                 "ga": [
                     0,
                     0
                 ],
-                "town": "Weston"
+                "town": "Thessaloniki"
             },
             {
                 "name": "Nick Ranieri",
@@ -1797,7 +1824,7 @@
                 "name": "Damian Attidore",
                 "number": 16,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Weston"
@@ -1806,8 +1833,8 @@
                 "name": "Sari Aboushala",
                 "number": 17,
                 "ga": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "town": "Weston"
             },
@@ -1815,7 +1842,7 @@
                 "name": "Brian Hall",
                 "number": 18,
                 "ga": [
-                    2,
+                    5,
                     0
                 ],
                 "town": "Weston"
