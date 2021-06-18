@@ -86,5 +86,13 @@
         "away": "FC Ducklips",
         "Ascore": 1,
         "field": "Soule"
+    },
+    {
+        "date": "2021-06-13",
+        "home": "Golden Siors FC",
+        "Hscore": 7,
+        "away": "Lightning FC",
+        "Ascore": 4,
+        "field": "Soule"
     }
 ]
