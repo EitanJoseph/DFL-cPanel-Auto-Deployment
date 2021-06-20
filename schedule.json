@@ -56,6 +56,14 @@
         "field": "Soule"
     },
     {
+        "date": "2021-06-13",
+        "home": "Golden Siors FC",
+        "Hscore": 7,
+        "away": "Lightning FC",
+        "Ascore": 4,
+        "field": "Soule"
+    },
+    {
         "date": "2021-06-14",
         "home": "Atletico Yoink",
         "Hscore": 7,
@@ -88,11 +96,11 @@
         "field": "Soule"
     },
     {
-        "date": "2021-06-13",
-        "home": "Golden Siors FC",
-        "Hscore": 7,
-        "away": "Lightning FC",
-        "Ascore": 4,
+        "date": "2021-06-18",
+        "home": "Atletico Yoink",
+        "Hscore": 3,
+        "away": "Ship Maturity FC",
+        "Ascore": 2,
         "field": "Soule"
     }
 ]

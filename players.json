@@ -210,9 +210,9 @@
                 "number": 1,
                 "ga": [
                     2,
-                    0
+                    1
                 ],
-                "town": "Newton"
+                "town": "Lexington"
             },
             {
                 "name": "Gabe Appelbaum",
@@ -282,7 +282,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    1
+                    2
                 ],
                 "town": "Newton"
             },
@@ -317,7 +317,7 @@
                 "name": "Jonathan Cohen",
                 "number": 13,
                 "ga": [
-                    1,
+                    3,
                     1
                 ],
                 "town": "Newton"
@@ -1789,7 +1789,7 @@
                 "number": 2,
                 "ga": [
                     2,
-                    2
+                    3
                 ],
                 "town": "Weston"
             },
@@ -1830,7 +1830,7 @@
                 "town": "Weston"
             },
             {
-                "name": "Alex Chiocca",
+                "name": "Liam Potts",
                 "number": 7,
                 "ga": [
                     0,
@@ -1852,7 +1852,7 @@
                 "number": 9,
                 "ga": [
                     1,
-                    4
+                    5
                 ],
                 "town": "Weston"
             },
@@ -1915,7 +1915,7 @@
                 "number": 16,
                 "ga": [
                     2,
-                    0
+                    1
                 ],
                 "town": "Weston"
             },
@@ -1932,7 +1932,7 @@
                 "name": "Brian Hall",
                 "number": 18,
                 "ga": [
-                    5,
+                    7,
                     0
                 ],
                 "town": "Weston"
