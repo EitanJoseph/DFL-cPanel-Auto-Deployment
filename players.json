@@ -467,7 +467,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Needham"
             },
@@ -539,7 +539,7 @@
                 "number": 13,
                 "ga": [
                     2,
-                    2
+                    1
                 ],
                 "town": "Needham"
             },
