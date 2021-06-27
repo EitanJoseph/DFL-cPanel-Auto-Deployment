@@ -227,7 +227,7 @@
                 "name": "Dario Arcieri",
                 "number": 1,
                 "ga": [
-                    2,
+                    3,
                     1
                 ],
                 "town": "Lexington"
@@ -237,7 +237,7 @@
                 "number": 2,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -264,7 +264,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -273,7 +273,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -300,7 +300,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    2
+                    3
                 ],
                 "town": "Newton"
             },
@@ -318,7 +318,7 @@
                 "number": 11,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -326,7 +326,7 @@
                 "name": "Martin Pleynet",
                 "number": 12,
                 "ga": [
-                    1,
+                    2,
                     1
                 ],
                 "town": "Newton"
@@ -335,8 +335,8 @@
                 "name": "Jonathan Cohen",
                 "number": 13,
                 "ga": [
-                    3,
-                    1
+                    5,
+                    2
                 ],
                 "town": "Newton"
             },
@@ -389,7 +389,7 @@
                 "name": "Vandrey Sisson",
                 "number": 19,
                 "ga": [
-                    2,
+                    0,
                     1
                 ],
                 "town": "Newton"
@@ -430,7 +430,7 @@
                 "name": "Zach Meisner",
                 "number": 1,
                 "ga": [
-                    2,
+                    1,
                     0
                 ],
                 "town": "Needham"
@@ -440,7 +440,7 @@
                 "number": 2,
                 "ga": [
                     1,
-                    0
+                    1
                 ],
                 "town": "Needham"
             },
@@ -467,7 +467,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -476,7 +476,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    1
+                    2
                 ],
                 "town": "Needham"
             },
@@ -503,7 +503,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -521,7 +521,7 @@
                 "number": 11,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham "
             },
@@ -529,7 +529,7 @@
                 "name": "Kenny Keyes",
                 "number": 12,
                 "ga": [
-                    2,
+                    1,
                     0
                 ],
                 "town": "Needham"
@@ -538,8 +538,8 @@
                 "name": "Ryan Kirshner",
                 "number": 13,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -592,7 +592,7 @@
                 "name": "Arnau Costa",
                 "number": 19,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Needham"
