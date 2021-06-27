@@ -237,7 +237,7 @@
                 "number": 2,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -273,7 +273,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -389,7 +389,7 @@
                 "name": "Vandrey Sisson",
                 "number": 19,
                 "ga": [
-                    0,
+                    2,
                     1
                 ],
                 "town": "Newton"
@@ -430,7 +430,7 @@
                 "name": "Zach Meisner",
                 "number": 1,
                 "ga": [
-                    1,
+                    2,
                     0
                 ],
                 "town": "Needham"
@@ -467,7 +467,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Needham"
             },
@@ -503,7 +503,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Needham"
             },
@@ -521,7 +521,7 @@
                 "number": 11,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Needham "
             },
@@ -529,7 +529,7 @@
                 "name": "Kenny Keyes",
                 "number": 12,
                 "ga": [
-                    1,
+                    2,
                     0
                 ],
                 "town": "Needham"
@@ -538,8 +538,8 @@
                 "name": "Ryan Kirshner",
                 "number": 13,
                 "ga": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "town": "Needham"
             },

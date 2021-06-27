@@ -126,5 +126,13 @@
         "away": "Minotaurs FC",
         "Ascore": 4,
         "field": "Soule"
+    },
+    {
+        "date": "2021-06-25",
+        "home": "FC Ducklips",
+        "Hscore": 2,
+        "away": "Ship Maturity FC",
+        "Ascore": 4,
+        "field": "Soule"
     }
 ]
