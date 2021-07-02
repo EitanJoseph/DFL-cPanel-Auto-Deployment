@@ -142,5 +142,13 @@
         "away": "Rio FC",
         "Ascore": 3,
         "field": "Soule"
+    },
+    {
+        "date": "2021-07-01",
+        "home": "Miners FC",
+        "Hscore": 4,
+        "away": "Atletico Yoink",
+        "Ascore": 7,
+        "field": "Soule"
     }
 ]
