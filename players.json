@@ -273,7 +273,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Newton"
             },
@@ -299,7 +299,7 @@
                 "name": "Alex Ivanov",
                 "number": 9,
                 "ga": [
-                    0,
+                    2,
                     3
                 ],
                 "town": "Newton"
@@ -335,8 +335,8 @@
                 "name": "Jonathan Cohen",
                 "number": 13,
                 "ga": [
-                    5,
-                    2
+                    6,
+                    3
                 ],
                 "town": "Newton"
             },
@@ -1323,7 +1323,7 @@
                 "name": "Jacob Calka",
                 "number": 12,
                 "ga": [
-                    0,
+                    1,
                     0
                 ],
                 "town": "Hopkinton"
@@ -1441,7 +1441,7 @@
                 "number": 25,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Lexington"
             },
@@ -1452,7 +1452,7 @@
                     0,
                     0
                 ],
-                "town": "Boston"
+                "town": "Melrose"
             }
         ]
     },
