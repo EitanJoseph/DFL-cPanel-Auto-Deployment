@@ -166,5 +166,21 @@
         "away": "FC Coast",
         "Ascore": 3,
         "field": "Soule"
+    },
+    {
+        "date": "2021-07-02",
+        "home": "Lightning FC",
+        "Hscore": 7,
+        "away": "Mofongo FC",
+        "Ascore": 6,
+        "field": "Defazio"
+    },
+    {
+        "date": "2021-07-06",
+        "home": "Lightning FC",
+        "Hscore": 6,
+        "away": "FC Ducklips",
+        "Ascore": 5,
+        "field": "Soule"
     }
 ]
