@@ -16,7 +16,7 @@
                 "number": 2,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -24,7 +24,7 @@
                 "name": "Ethan Hollop",
                 "number": 3,
                 "ga": [
-                    5,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -43,7 +43,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Newton"
             },
@@ -61,7 +61,7 @@
                 "number": 7,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -87,7 +87,7 @@
                 "name": "John Javaloyes",
                 "number": 10,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -96,7 +96,7 @@
                 "name": "Eitan Joseph",
                 "number": 11,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -160,7 +160,7 @@
                 "number": 18,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Medfield"
             },
@@ -177,8 +177,8 @@
                 "name": "Gino Kennedy",
                 "number": 20,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Duxbury"
             },
@@ -186,8 +186,8 @@
                 "name": "Omar Ghafour",
                 "number": 21,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -205,7 +205,7 @@
                 "number": 23,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -213,8 +213,8 @@
                 "name": "Owen Previte",
                 "number": 24,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Medfield"
             },
@@ -236,8 +236,8 @@
                 "name": "Dario Arcieri",
                 "number": 1,
                 "ga": [
-                    3,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Lexington"
             },
@@ -255,7 +255,7 @@
                 "number": 3,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -273,7 +273,7 @@
                 "number": 5,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Newton"
             },
@@ -282,7 +282,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -308,8 +308,8 @@
                 "name": "Alex Ivanov",
                 "number": 9,
                 "ga": [
-                    3,
-                    3
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -318,7 +318,7 @@
                 "number": 10,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -327,7 +327,7 @@
                 "number": 11,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -335,8 +335,8 @@
                 "name": "Martin Pleynet",
                 "number": 12,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -344,8 +344,8 @@
                 "name": "Jonathan Cohen",
                 "number": 13,
                 "ga": [
-                    7,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -398,8 +398,8 @@
                 "name": "Vandrey Sisson",
                 "number": 19,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -425,7 +425,7 @@
                 "name": "Sam Norwitz",
                 "number": 22,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -457,8 +457,8 @@
                 "name": "Zach Meisner",
                 "number": 1,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -466,8 +466,8 @@
                 "name": "Finbar McCarron",
                 "number": 2,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -484,8 +484,8 @@
                 "name": "Peter Spielmann",
                 "number": 4,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -493,8 +493,8 @@
                 "name": "Theo Angert",
                 "number": 5,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -503,7 +503,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    3
+                    0
                 ],
                 "town": "Needham"
             },
@@ -556,7 +556,7 @@
                 "name": "Kenny Keyes",
                 "number": 12,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -583,7 +583,7 @@
                 "name": "Dilin Meloni",
                 "number": 15,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -619,7 +619,7 @@
                 "name": "Arnau Costa",
                 "number": 19,
                 "ga": [
-                    5,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -656,7 +656,7 @@
                 "number": 23,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -664,7 +664,7 @@
                 "name": "Chris Fleming",
                 "number": 24,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -674,7 +674,7 @@
                 "number": 25,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             }
@@ -697,7 +697,7 @@
                 "number": 2,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -705,8 +705,8 @@
                 "name": "Dennis Pecherskiy",
                 "number": 3,
                 "ga": [
-                    6,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -715,7 +715,7 @@
                 "number": 4,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Newton"
             },
@@ -723,8 +723,8 @@
                 "name": "Tomas Nelson",
                 "number": 5,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -759,7 +759,7 @@
                 "name": "Adam Bernhardt",
                 "number": 9,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -777,7 +777,7 @@
                 "name": "Issac Enelemah",
                 "number": 11,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -805,7 +805,7 @@
                 "number": 14,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Newton"
             },
@@ -822,7 +822,7 @@
                 "name": "Josh Cafaro",
                 "number": 16,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -908,7 +908,7 @@
                 "name": "John Wendlandt",
                 "number": 1,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Newton"
@@ -917,8 +917,8 @@
                 "name": "Youmy Telemaque",
                 "number": 2,
                 "ga": [
-                    2,
-                    7
+                    0,
+                    0
                 ],
                 "town": "Waltham"
             },
@@ -926,8 +926,8 @@
                 "name": "Fred Madsen",
                 "number": 3,
                 "ga": [
-                    4,
-                    5
+                    0,
+                    0
                 ],
                 "town": "Waltham"
             },
@@ -936,7 +936,7 @@
                 "number": 4,
                 "ga": [
                     0,
-                    3
+                    0
                 ],
                 "town": "western mass  "
             },
@@ -1016,8 +1016,8 @@
                 "name": "Max Johnston ",
                 "number": 13,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -1034,8 +1034,8 @@
                 "name": "Diego Gisholt ",
                 "number": 15,
                 "ga": [
-                    3,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -1043,8 +1043,8 @@
                 "name": "Will Bessa",
                 "number": 16,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Framingham"
             },
@@ -1052,8 +1052,8 @@
                 "name": "Dan Faynstien ",
                 "number": 17,
                 "ga": [
-                    10,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1071,7 +1071,7 @@
                 "number": 19,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1088,8 +1088,8 @@
                 "name": "Matthew Bell",
                 "number": 21,
                 "ga": [
-                    3,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Milton"
             }
@@ -1129,8 +1129,8 @@
                 "name": "Florian Rieder",
                 "number": 4,
                 "ga": [
-                    9,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Boston"
             },
@@ -1138,8 +1138,8 @@
                 "name": "Jak Hallagan",
                 "number": 5,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1174,8 +1174,8 @@
                 "name": "Miles Dycaico",
                 "number": 9,
                 "ga": [
-                    3,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Boston"
             },
@@ -1184,7 +1184,7 @@
                 "number": 10,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1192,8 +1192,8 @@
                 "name": "Peter Kargbo",
                 "number": 11,
                 "ga": [
-                    4,
-                    3
+                    0,
+                    0
                 ],
                 "town": "Boston"
             },
@@ -1238,7 +1238,7 @@
                 "number": 16,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1246,8 +1246,8 @@
                 "name": "Will Popper",
                 "number": 17,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1256,7 +1256,7 @@
                 "number": 18,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1278,7 +1278,7 @@
                 "name": "Raphael Edwards",
                 "number": 1,
                 "ga": [
-                    4,
+                    0,
                     0
                 ],
                 "town": "Boston"
@@ -1287,8 +1287,8 @@
                 "name": "William Brown",
                 "number": 2,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Newton"
             },
@@ -1296,8 +1296,8 @@
                 "name": "Will Philbin-Cross",
                 "number": 3,
                 "ga": [
-                    3,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Roslindale"
             },
@@ -1314,8 +1314,8 @@
                 "name": "Ford Chope",
                 "number": 5,
                 "ga": [
-                    2,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Boston"
             },
@@ -1324,7 +1324,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1377,7 +1377,7 @@
                 "name": "Jacob Calka",
                 "number": 12,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Hopkinton"
@@ -1387,7 +1387,7 @@
                 "number": 13,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Newton"
             },
@@ -1431,8 +1431,8 @@
                 "name": "Mason Oebeles",
                 "number": 18,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Amsterdam"
             },
@@ -1459,7 +1459,7 @@
                 "number": 21,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Dorchester"
             },
@@ -1485,7 +1485,7 @@
                 "name": "Zach Herman",
                 "number": 24,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Wellesley"
@@ -1495,7 +1495,7 @@
                 "number": 25,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Lexington"
             },
@@ -1539,7 +1539,7 @@
                 "name": "Pat Murphy",
                 "number": 30,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Jamaica Plain"
@@ -1553,8 +1553,8 @@
                 "name": "Sam Scher",
                 "number": 1,
                 "ga": [
-                    1,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Boston"
             },
@@ -1571,8 +1571,8 @@
                 "name": "Jake Sacks",
                 "number": 3,
                 "ga": [
-                    4,
-                    3
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1580,8 +1580,8 @@
                 "name": "Mekhi Edge",
                 "number": 4,
                 "ga": [
-                    9,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1589,8 +1589,8 @@
                 "name": "Brad Saines",
                 "number": 5,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1598,8 +1598,8 @@
                 "name": "Kolya Partan",
                 "number": 6,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1607,8 +1607,8 @@
                 "name": "Avi BenMayor",
                 "number": 7,
                 "ga": [
-                    2,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1616,8 +1616,8 @@
                 "name": "Mateo Ascherio",
                 "number": 8,
                 "ga": [
-                    4,
-                    5
+                    0,
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1626,7 +1626,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1635,7 +1635,7 @@
                 "number": 10,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1733,7 +1733,7 @@
                 "name": "Jacques Baldwin",
                 "number": 21,
                 "ga": [
-                    4,
+                    0,
                     0
                 ],
                 "town": "Brookline"
@@ -1752,7 +1752,7 @@
                 "number": 23,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Brookline"
             },
@@ -1783,8 +1783,8 @@
                 "name": "Nate Ramras",
                 "number": 2,
                 "ga": [
-                    3,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1793,7 +1793,7 @@
                 "number": 3,
                 "ga": [
                     0,
-                    3
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1810,8 +1810,8 @@
                 "name": "Brian Poolman",
                 "number": 5,
                 "ga": [
-                    2,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1820,7 +1820,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1829,7 +1829,7 @@
                 "number": 7,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1837,8 +1837,8 @@
                 "name": "Ryan Partridge",
                 "number": 8,
                 "ga": [
-                    3,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1847,7 +1847,7 @@
                 "number": 9,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1855,8 +1855,8 @@
                 "name": "Matt Dougherty",
                 "number": 10,
                 "ga": [
-                    6,
-                    6
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1864,8 +1864,8 @@
                 "name": "Oren Shalita",
                 "number": 11,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1874,7 +1874,7 @@
                 "number": 12,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1882,7 +1882,7 @@
                 "name": "David Walley",
                 "number": 13,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -1891,8 +1891,8 @@
                 "name": "Jonah Berg",
                 "number": 14,
                 "ga": [
-                    2,
-                    4
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1918,8 +1918,8 @@
                 "name": "Tommy Moreth",
                 "number": 17,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1927,8 +1927,8 @@
                 "name": "Gerard Costa",
                 "number": 18,
                 "ga": [
-                    2,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1936,7 +1936,7 @@
                 "name": "Josh Fleckner",
                 "number": 19,
                 "ga": [
-                    8,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -1945,8 +1945,8 @@
                 "name": "Liam Woodman",
                 "number": 20,
                 "ga": [
-                    3,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1954,7 +1954,7 @@
                 "name": "Sean Connolly ",
                 "number": 21,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Arlington"
@@ -1963,7 +1963,7 @@
                 "name": "Nate sherman",
                 "number": 22,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Needham"
@@ -1981,8 +1981,8 @@
                 "name": "Christian Rufo",
                 "number": 24,
                 "ga": [
-                    1,
-                    2
+                    0,
+                    0
                 ],
                 "town": "Needham"
             }
@@ -2004,8 +2004,8 @@
                 "name": "Henry Osborn",
                 "number": 2,
                 "ga": [
-                    5,
-                    8
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2059,7 +2059,7 @@
                 "number": 8,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Medfield"
             },
@@ -2067,8 +2067,8 @@
                 "name": "Michael Delduchetto",
                 "number": 9,
                 "ga": [
-                    2,
-                    5
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2076,7 +2076,7 @@
                 "name": "Cam Schluter",
                 "number": 10,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Weston"
@@ -2085,8 +2085,8 @@
                 "name": "Yoseph Alkhateeb",
                 "number": 11,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2095,7 +2095,7 @@
                 "number": 12,
                 "ga": [
                     0,
-                    2
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2130,8 +2130,8 @@
                 "name": "Damian Attidore",
                 "number": 16,
                 "ga": [
-                    5,
-                    3
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2139,8 +2139,8 @@
                 "name": "Sari Aboushala",
                 "number": 17,
                 "ga": [
-                    1,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2148,8 +2148,8 @@
                 "name": "Brian Hall",
                 "number": 18,
                 "ga": [
-                    9,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2184,7 +2184,7 @@
                 "name": "Christos Iatridis",
                 "number": 22,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Weston"
