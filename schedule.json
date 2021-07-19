@@ -153,18 +153,18 @@
     },
     {
         "date": "2021-07-02",
-        "home": "Ship Maturity FC",
-        "Hscore": 3,
-        "away": "Rio FC",
-        "Ascore": 1,
-        "field": "Soule"
-    },
-    {
-        "date": "2021-07-02",
         "home": "Minotaurs FC",
         "Hscore": 0,
         "away": "FC Coast",
         "Ascore": 3,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-07-02",
+        "home": "Ship Maturity FC",
+        "Hscore": 3,
+        "away": "Rio FC",
+        "Ascore": 1,
         "field": "Soule"
     },
     {
@@ -208,14 +208,6 @@
         "field": "Defazio"
     },
     {
-        "date": "2021- 07-09",
-        "home": "Ship Maturity FC",
-        "Hscore": 1,
-        "away": "Golden Siors FC",
-        "Ascore": 2,
-        "field": "Soule"
-    },
-    {
         "date": "2021-07-09",
         "home": "FC Ducklips",
         "Hscore": 3,
@@ -230,5 +222,29 @@
         "away": "Ship Maturity FC",
         "Ascore": 2,
         "field": "Defazio"
+    },
+    {
+        "date": "2021-07-14",
+        "home": "Atletico Yoink",
+        "Hscore": 5,
+        "away": "Rio FC",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-07-15",
+        "home": "Lightning FC",
+        "Hscore": 4,
+        "away": "FC Coast",
+        "Ascore": 1,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-07-16",
+        "home": "Ship Maturity FC",
+        "Hscore": 1,
+        "away": "Golden Siors FC",
+        "Ascore": 2,
+        "field": "Soule"
     }
 ]
