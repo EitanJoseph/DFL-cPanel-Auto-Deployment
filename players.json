@@ -917,7 +917,7 @@
                 "name": "Youmy Telemaque",
                 "number": 2,
                 "ga": [
-                    2,
+                    4,
                     7
                 ],
                 "town": "Waltham"
@@ -927,12 +927,12 @@
                 "number": 3,
                 "ga": [
                     4,
-                    5
+                    8
                 ],
                 "town": "Waltham"
             },
             {
-                "name": "liam  C- Shulman",
+                "name": "liam  Shulman",
                 "number": 4,
                 "ga": [
                     0,
@@ -941,7 +941,7 @@
                 "town": "western mass  "
             },
             {
-                "name": "Ben  Geralt",
+                "name": "Ben Geralt",
                 "number": 5,
                 "ga": [
                     0,
@@ -1017,7 +1017,7 @@
                 "number": 13,
                 "ga": [
                     2,
-                    1
+                    2
                 ],
                 "town": "Newton"
             },
@@ -1034,7 +1034,7 @@
                 "name": "Diego Gisholt ",
                 "number": 15,
                 "ga": [
-                    3,
+                    5,
                     1
                 ],
                 "town": "Newton"
@@ -1341,7 +1341,7 @@
                 "name": "Ben Lehv",
                 "number": 8,
                 "ga": [
-                    0,
+                    2,
                     0
                 ],
                 "town": "Newton"
@@ -1378,7 +1378,7 @@
                 "number": 12,
                 "ga": [
                     1,
-                    0
+                    2
                 ],
                 "town": "Hopkinton"
             },
@@ -1543,6 +1543,24 @@
                     0
                 ],
                 "town": "Jamaica Plain"
+            },
+            {
+                "name": "Renzo ",
+                "number": 31,
+                "ga": [
+                    1,
+                    0
+                ],
+                "town": "Wharton"
+            },
+            {
+                "name": "Ruedi",
+                "number": 32,
+                "ga": [
+                    0,
+                    1
+                ],
+                "town": "Trenton"
             }
         ]
     },
@@ -2004,7 +2022,7 @@
                 "name": "Henry Osborn",
                 "number": 2,
                 "ga": [
-                    5,
+                    6,
                     11
                 ],
                 "town": "Weston"
@@ -2077,7 +2095,7 @@
                 "number": 10,
                 "ga": [
                     3,
-                    0
+                    2
                 ],
                 "town": "Weston"
             },
@@ -2130,7 +2148,7 @@
                 "name": "Damian Attidore",
                 "number": 16,
                 "ga": [
-                    8,
+                    9,
                     4
                 ],
                 "town": "Weston"
@@ -2148,7 +2166,7 @@
                 "name": "Brian Hall",
                 "number": 18,
                 "ga": [
-                    9,
+                    10,
                     2
                 ],
                 "town": "Weston"
