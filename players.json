@@ -24,7 +24,7 @@
                 "name": "Ethan Hollop",
                 "number": 3,
                 "ga": [
-                    5,
+                    6,
                     0
                 ],
                 "town": "Needham"
@@ -52,7 +52,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Natick"
             },
@@ -168,8 +168,8 @@
                 "name": "Evan Blanchard",
                 "number": 19,
                 "ga": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "town": "Sherborn"
             },
@@ -1129,7 +1129,7 @@
                 "name": "Artiom Tarabarin",
                 "number": 3,
                 "ga": [
-                    1,
+                    0,
                     0
                 ],
                 "town": "Boston"
@@ -1157,7 +1157,7 @@
                 "number": 6,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Needham"
             },
@@ -1273,8 +1273,8 @@
                 "name": "Evan Morrison",
                 "number": 19,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Indianapolis "
             }
@@ -1598,8 +1598,8 @@
                 "name": "Jake Sacks",
                 "number": 3,
                 "ga": [
-                    3,
-                    2
+                    5,
+                    3
                 ],
                 "town": "Brookline"
             },
@@ -1607,7 +1607,7 @@
                 "name": "Mekhi Edge",
                 "number": 4,
                 "ga": [
-                    8,
+                    10,
                     3
                 ],
                 "town": "Brookline"
@@ -1635,7 +1635,7 @@
                 "number": 7,
                 "ga": [
                     3,
-                    1
+                    4
                 ],
                 "town": "Brookline"
             },
@@ -1643,8 +1643,8 @@
                 "name": "Mateo Ascherio",
                 "number": 8,
                 "ga": [
-                    4,
-                    5
+                    5,
+                    7
                 ],
                 "town": "Brookline"
             },
@@ -1760,7 +1760,7 @@
                 "name": "Jacques Baldwin",
                 "number": 21,
                 "ga": [
-                    2,
+                    4,
                     0
                 ],
                 "town": "Brookline"
@@ -1779,7 +1779,7 @@
                 "number": 23,
                 "ga": [
                     0,
-                    0
+                    1
                 ],
                 "town": "Brookline"
             },
@@ -2076,8 +2076,8 @@
                 "name": "David Dangond",
                 "number": 3,
                 "ga": [
-                    2,
-                    1
+                    0,
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2085,7 +2085,7 @@
                 "name": "Tom Cochran",
                 "number": 4,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Roslindale"
@@ -2113,7 +2113,7 @@
                 "number": 7,
                 "ga": [
                     0,
-                    3
+                    0
                 ],
                 "town": "Weston"
             },
@@ -2121,8 +2121,8 @@
                 "name": "Devan Venkataraman ",
                 "number": 8,
                 "ga": [
-                    1,
-                    3
+                    0,
+                    1
                 ],
                 "town": "Medfield"
             },
@@ -2238,7 +2238,7 @@
                 "name": "Nick Ginovker",
                 "number": 21,
                 "ga": [
-                    2,
+                    0,
                     0
                 ],
                 "town": "Weston"
@@ -2257,7 +2257,7 @@
                 "number": 23,
                 "ga": [
                     0,
-                    1
+                    0
                 ],
                 "town": "Weston"
             },

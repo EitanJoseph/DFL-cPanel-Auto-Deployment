@@ -193,14 +193,14 @@
     },
     {
         "date": "2021-07-08",
-        "home": "Golden Siors FC",
+        "home": "FC Coast",
         "Hscore": 3,
-        "away": "Atletico Yoink",
-        "Ascore": 3,
+        "away": "Miners FC",
+        "Ascore": 7,
         "field": "Soule"
     },
     {
-        "date": "2021-07-21",
+        "date": "2021-07-08",
         "home": "Atletico Yoink",
         "Hscore": 2,
         "away": "Lightning FC",
@@ -293,6 +293,14 @@
         "Hscore": 4,
         "away": "FC Ducklips",
         "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-08-03",
+        "home": "Golden Siors FC",
+        "Hscore": 0,
+        "away": "FC Coast",
+        "Ascore": 4,
         "field": "Soule"
     }
 ]
