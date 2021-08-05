@@ -302,5 +302,13 @@
         "away": "FC Coast",
         "Ascore": 4,
         "field": "Soule"
+    },
+    {
+        "date": "2021-08-04",
+        "home": "Minotaurs FC",
+        "Hscore": 3,
+        "away": "Miners FC",
+        "Ascore": 2,
+        "field": "Soule"
     }
 ]
