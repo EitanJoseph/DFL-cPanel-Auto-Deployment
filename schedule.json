@@ -24,6 +24,22 @@
         "field": "Soule"
     },
     {
+        "date": "2021-06-06",
+        "home": "Golden Siors FC",
+        "Hscore": 0,
+        "away": "FC Ducklips",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-06-07",
+        "home": "Miners FC",
+        "Hscore": 0,
+        "away": "Golden Siors FC",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
         "date": "2021-06-09",
         "home": "Minotaurs FC",
         "Hscore": 1,
@@ -176,6 +192,14 @@
         "field": "Defazio"
     },
     {
+        "date": "2021-07-03",
+        "home": "Miners FC",
+        "Hscore": 0,
+        "away": "Mofongo FC",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
         "date": "2021-07-06",
         "home": "Lightning FC",
         "Hscore": 6,
@@ -208,12 +232,28 @@
         "field": "Defazio"
     },
     {
+        "date": "2021-07-08",
+        "home": "FC Coast",
+        "Hscore": 0,
+        "away": "Mofongo FC",
+        "Ascore": 0,
+        "field": "Soule"
+    },
+    {
         "date": "2021-07-09",
         "home": "FC Ducklips",
         "Hscore": 3,
         "away": "Mofongo FC",
         "Ascore": 10,
         "field": "Defazio "
+    },
+    {
+        "date": "2021-07-09",
+        "home": "FC Coast",
+        "Hscore": 0,
+        "away": "Rio FC",
+        "Ascore": 0,
+        "field": "Soule"
     },
     {
         "date": "2021-07-12",
@@ -245,6 +285,14 @@
         "Hscore": 1,
         "away": "Golden Siors FC",
         "Ascore": 2,
+        "field": "Soule"
+    },
+    {
+        "date": "2021-07-16",
+        "home": "FC Ducklips",
+        "Hscore": 0,
+        "away": "Atletico Yoink",
+        "Ascore": 0,
         "field": "Soule"
     },
     {
