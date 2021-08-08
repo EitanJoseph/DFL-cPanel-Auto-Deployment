@@ -918,7 +918,7 @@
                 "town": "Newton"
             },
             {
-                "name": "Finn",
+                "name": "Finn Berquist",
                 "number": 27,
                 "ga": [
                     0,
@@ -965,7 +965,7 @@
                     0,
                     3
                 ],
-                "town": "western mass  "
+                "town": "Boston"
             },
             {
                 "name": "Ben Geralt",
@@ -1572,16 +1572,16 @@
                 "town": "Jamaica Plain"
             },
             {
-                "name": "Renzo ",
+                "name": "Lorenzo Demolli",
                 "number": 31,
                 "ga": [
                     1,
                     0
                 ],
-                "town": "Wharton"
+                "town": "Boston"
             },
             {
-                "name": "Ruedi",
+                "name": "Ruedi Kasabach",
                 "number": 32,
                 "ga": [
                     0,
@@ -1736,7 +1736,7 @@
                     1,
                     0
                 ],
-                "town": "Walpole"
+                "town": "Norwood"
             },
             {
                 "name": "Max Sweetbaum",
