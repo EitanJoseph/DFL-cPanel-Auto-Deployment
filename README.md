@@ -37,7 +37,6 @@ This repository allows the DFL captains to input match report data without havin
     1 22 * * * /Users/user/folder/DFL-cPanel-Auto-Deployment/deploy.sh
 ```
   4. Periodically check `/var/mail/` to ensure that the script is running properly.
->>>>>>> 7830d02a9cf190b852963028ef27268b6b183287
 
 ## References
 * https://man7.org/linux/man-pages/man5/crontab.5.html
