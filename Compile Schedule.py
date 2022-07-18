@@ -1,6 +1,6 @@
 '''
 This script 
-	- Downloads the CSV file from the 2021 DFL master schedule
+	- Downloads the CSV file from the 2022 DFL master schedule
 	- Populates "players.json" JSON object with compiled player data
 	- Populates "schedule.json" JSON object with compiled schedule data
 	- Exports both JSON objects
@@ -14,11 +14,11 @@ import math
 with open('players.json') as f:
   players = json.load(f)
 
-df = pd.read_csv ('https://docs.google.com/spreadsheets/d/e/2PACX-1vTDyvnkgm1cYA0syoyqkkFVhJwmueNJ0JIAyO1lCjP2N7Md-zfC7ltU9DQvwWK0ud7DGY-lEPWMxERK/pub?output=csv')
+df = pd.read_csv ('https://docs.google.com/spreadsheets/d/e/2PACX-1vQyBN6zhHyw3o3rNCcRExZdZ3nQfLOm-DJcqWIujoR-H2BBHHfNHhWapiO7vDq5qvH-r_wpfioyB280/pub?gid=790231340&single=true&output=csv')
 
 json_out = []
 
-Team=["FC Coast", "Ship Maturity FC", "FC Ducklips", "Minotaurs FC", "Mofongo FC", "Golden Siors FC", "Rio FC", "Miners FC", "Lightning FC", "Atletico Yoink"]
+Team=["FC Coast", "Bank FC", "Internazionale", "Minotaurs FC", "Horny FC", "Favela FC", "FC Ducklips", "Weston FC", "Thiccums FC", "Atletico Yoink"]
 
 def processPlayers(goals, assists, team):
 	'''
