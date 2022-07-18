@@ -14,7 +14,7 @@ df = pd.read_csv ('https://docs.google.com/spreadsheets/d/e/2PACX-1vQyBN6zhHyw3o
 
 json_out = {}
 
-Team=["FC Coast", "Bank FC", "Internazionale", "Minotaurs FC", "Horny FC", "Favela FC", "FC Ducklips", "Weston FC", "Thiccums FC", "Atletico Yoink"]
+Team=["FC Coast", "Bank FC", "Internazionale", "Minotaurs FC", "Horny FC", "Favela FC", "FC Ducklips", "Weston FC", "Thiccums FC", "Atletico Yoink", "Class on Grass", "Milf Hunters FC"]
 
 for i in range(0,len(Team)):
 	json_out[Team[i]] = {
